@@ -91,7 +91,7 @@ Replace `ID` with the respective channel IDs. You can get these by using Telegra
 
 ## Example
 
-If a user `@yiu99999` sends a message "Hello world!" to `INPUT__official`:
+If a user `@1` sends a message "Hello world!" to `INPUT__official`:
 - The bot translates it to "你好，世界！".
 - Forwards the translated text to `OUTPUT__MT_FORWARD_CHAT_ID`.
 
