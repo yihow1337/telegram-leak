@@ -46,7 +46,7 @@ try:
                     return
 
                 # 篩選特定 username
-                allowed_usernames = {"yiu99999", "maxonamission1"}
+                allowed_usernames = {"1", "2"}
                 if username not in allowed_usernames:
                     print(f"Username {username} is not allowed. Skipping message.")
                     return
